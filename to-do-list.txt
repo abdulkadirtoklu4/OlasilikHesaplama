@@ -1,0 +1,31 @@
+1- Program start olduðunda .net 4.8.1'in kurulu olup olmadýðýný test edecek.
+	* Eðer kurulu deðil ise, içinde bulunan local .net exesi ile yükleme yapacak.
+	* Bu sayede programýn açýlmamasý gibi sorunlar ortadan kalkmýþ olacak. --TAMAMLANDI
+
+2- Sorularýn tamamýný pdf dosyasýna yazdýrarak çýkartabilmeli. -- TAMAMLANDI
+
+3- Bir dizi içinde rastgele birçok soru olacak, a, b, c, d, e þeklinde þýklar olacak.
+	* Button veya RadioButton olacak þekilde kullanýcý seçecek.
+	* Doðru yanlýþ sayýsý ListBox nesnesinde saklanacak ama formun dýþýnda olacak. -- TAMAMLANDI
+	* Kullanýcý skor tablosunu sadece istediðinde Button'a týklayarak görebilecek. -- TAMAMLANDI
+	* Skor tablosunda, elemana týklandýðýnda soruya götürecek.
+
+4- Soru sayfasýnda 'yenile' adlý bir button olacak. -- TAMAMLANDI
+	* kullanýcý bu button'a bastýðýnda soru deðiþecek. -- TAMAMLANDI.
+
+5- Kullanýcý soruyu yenilediðinde eski sorular denk gelmemeli.
+	* Yapýlan sorularýn index numaralarý bir diziye aktarýlmalý.
+	* Random ile sayý oluþturulurken if ve do-while döngüsüyle karþýlaþtýrýlýp
+	- eski sorulardan birinin tekrar kullanýcýya gösterilmemesi gerekir.
+		* 2 farklý dizi kullanmak yerine ilk dizideki gösterilen elemaný her seferinde sildirerek;
+		* hem tek dizide halletmiþ olurum hem de eleman saysý = 0 ise else kýsmýnda soru kalmadý mesajý verebilirim.
+
+6- Zar olmalý. Sayýlarý arttýrýlmalý. Kullanýcý kaç zar atmak istediðini kendisi söylemeli. -- TAMAMLANDI
+
+7- Zar formunun min max pixel deðerleri ayarlanacak. -- TAMAMLANDI
+
+8- Soru sayýsý min 200 olacak
+
+9- Text büyütülüp küçültülebilmeli. Ayný zamanda Form da büyümeli.
+
+zarlarýn toplam olasýlýðý
